@@ -18,6 +18,7 @@
 
 *Погасите node exporter, стоящий на мониторинге, и прикрепите скриншот раздела оповещений Prometheus, где оповещение будет в статусе Pending.*
 
+![alt text](https://github.com/vasev85/prometheus2/blob/main/ex1.png?raw=true)
 ---
 
 ### Задание 2. 
@@ -26,7 +27,8 @@
 
 
 *Прикрепите скриншот Alerts из Prometheus, где правило оповещение будет в статусе Fireing, и скриншот из Alertmanager, где будет видно действующее правило оповещения.*
-
+![alt text](https://github.com/vasev85/prometheus2/blob/main/ex2.png?raw=true)
+![alt text](https://github.com/vasev85/prometheus2/blob/main/ex2-1.png?raw=true)
 
 ---
 
@@ -37,6 +39,8 @@
 
 *Приложите скриншот браузера с открытым эндпоинтом, а также скриншот списка таргетов из интерфейса Prometheus.*
 
+![alt text](https://github.com/vasev85/prometheus2/blob/main/ex3.png?raw=true)
+![alt text](https://github.com/vasev85/prometheus2/blob/main/ex3-1.png?raw=true)
 
 ---
 ## Дополнительные задания (со звездочкой*)
@@ -48,5 +52,7 @@
 ### Задание 4*. 
 
 Создайте свой дашборд Grafana с различными метриками Docker и сервера, на котором он стоит.
+![alt text](https://github.com/vasev85/prometheus2/blob/main/ex4.png?raw=true)
+
 
 *Приложите скриншот на котором будет дашборд Grafana с действующей метрикой.*
